@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.18.3](https://github.com/starship/starship/compare/v1.18.2...v1.18.3) (2024-03-30)
+
+
+### Bug Fixes
+
+* **bun:** change default icon ([#5880](https://github.com/starship/starship/issues/5880)) ([be4e97c](https://github.com/starship/starship/commit/be4e97c2d9169cbf0bc30e271dd4ba07530dc46f))
+
 ## [1.18.2](https://github.com/starship/starship/compare/v1.18.1...v1.18.2) (2024-03-29)
 
 
